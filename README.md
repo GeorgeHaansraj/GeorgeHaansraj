@@ -21,4 +21,4 @@
 [![](https://visitcount.itsvg.in/api?id=GeorgeHaansraj&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ##### Socials:
-![https://instagram.com/georgehaansraj](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![https://linkedin.com/in/George Haansraj](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![mailto:georgehaansraj@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/georgehaansraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgehaansraj) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:georgehaansraj@gmail.com)
