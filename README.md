@@ -8,7 +8,7 @@ I'm an Informatics Engineering student at the Sumatera Institute of Technology w
 </p>
 
 ##### Highlighted Projects
-- [Zombie Turret Defense CLI Game](https://github.com/GeorgeHaansraj/zombie-defense) – Python OOP-based game
+- [Zombie Turret Defense CLI Game](https://github.com/GeorgeHaansraj/zombie_turret_defense.git) – Python OOP-based game
 
 ##### Skills:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
