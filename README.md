@@ -4,7 +4,7 @@
 
 ##### About Me
 <p align="justify">
-I'm an Informatics Engineering student at the Sumatera Institute of Technology who loves building efficient and simple digital systems. I am currently focusing on AI and cybersecurity.
+I'm an Informatics Engineering student at the Sumatera Institute of Technology. Currently I am starting to focus on studying the fields of AI and cybersecurity. Di sini saya mempublikasikan beberapa repositori belajar saya dengan maksud berlatih dan backup data project.
 </p>
 
 ##### Highlighted Projects
